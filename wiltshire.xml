@@ -52915,12 +52915,10 @@
                   <note resp="#editor">Rest of membrane damaged and missing.</note>
                </p>
             </h:area>
-         </h:area>
-         <pb n="mem.74"/>
-         <note resp="#editor">fragment</note>
-         <h:area>
-            <head><note resp="#editor">location missing</note><supplied><placeName type="hundred"
-                     >Mere hundred</placeName></supplied></head>
+            <pb n="mem.74"/>
+            <note resp="#editor">fragment</note>
+            <fw><note resp="#editor">location missing</note><supplied><placeName type="hundred">Mere
+                     hundred</placeName></supplied></fw>
             <h:area>
                <head><note resp="#editor">location missing</note><supplied><placeName type="parish"
                         >Maiden Bradley</placeName></supplied></head>
@@ -53895,14 +53893,12 @@
                   <lb/>
                </p>
             </h:area>
-         </h:area>
-         <pb n="mem. 77"/>
-         <note resp="#editor">fragment</note>
-         <h:area>
-            <head>
+            <pb n="mem. 77"/>
+            <note resp="#editor">fragment</note>
+            <fw>
                <supplied resp="#editor"><placeName type="hundred">Heytesbury
                   hundred</placeName></supplied>
-            </head>
+            </fw>
             <h:area>
                <head><placeName><choice>
                         <orig>...lieffe</orig>
